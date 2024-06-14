@@ -12,7 +12,7 @@ require (
 	github.com/operator-framework/operator-sdk v0.15.2
 	github.com/prometheus/client_model v0.2.0 // indirect
 	github.com/spf13/pflag v1.0.5
-	golang.org/x/crypto v0.0.0-20201216223049-8b5274cf687f // indirect
+	golang.org/x/crypto v0.17.0 // indirect
 	k8s.io/api v0.0.0
 	k8s.io/apimachinery v0.0.0
 	k8s.io/client-go v12.0.0+incompatible
